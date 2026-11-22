@@ -1,4 +1,4 @@
-package com.fanhl.flamebarchart.sample.util;
+﻿package com.fanhl.flamebarchart.sample.util;
 
 import android.annotation.SuppressLint;
 import android.graphics.Bitmap;
@@ -14,14 +14,14 @@ import android.graphics.Typeface;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
-import android.support.annotation.ColorInt;
-import android.support.annotation.DrawableRes;
+import androidx.annotation.ColorInt;
+import androidx.annotation.DrawableRes;
 import android.support.annotation.FloatRange;
-import android.support.annotation.IntDef;
+import androidx.annotation.IntDef;
 import android.support.annotation.IntRange;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.v4.content.ContextCompat;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.core.content.ContextCompat;
 import android.text.Layout;
 import android.text.Layout.Alignment;
 import android.text.SpannableStringBuilder;

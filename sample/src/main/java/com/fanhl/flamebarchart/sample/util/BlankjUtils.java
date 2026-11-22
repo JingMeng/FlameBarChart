@@ -1,10 +1,10 @@
-package com.fanhl.flamebarchart.sample.util;
+﻿package com.fanhl.flamebarchart.sample.util;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.Application;
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import java.util.LinkedList;
 
